@@ -22,7 +22,7 @@ namespace tracompass::commands {
 
 namespace {
 
-using ll::command::ParamKind;
+namespace ParamKind = ll::command::ParamKind;
 using ll::command::RuntimeCommand;
 
 Player* originPlayer(CommandOrigin const& origin, CommandOutput& output) {

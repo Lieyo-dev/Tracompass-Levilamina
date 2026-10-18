@@ -53,6 +53,6 @@ target("Tracompass")
         mod_packer.pack_mod(target, {
             modName = target:name(),
             modFile = path.filename(target:targetfile()),
-            modVersion = "1.0.0",
+            modVersion = "26.32.2",
         })
     end)

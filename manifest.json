@@ -3,5 +3,5 @@
     "entry": "${modFile}",
     "version": "${modVersion}",
     "type": "native",
-    "author": "you"
+    "author": "Lieyo-dev"
 }
